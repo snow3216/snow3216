@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucien (L3168152032-png)
+# 👋 Hi, I'm Lucien (snow3216)
 
 ### 🚀 Deep Dive into High-Performance Systems & AI Infrastructure
 
