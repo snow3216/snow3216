@@ -11,7 +11,7 @@ I'm a developer passionate about squeezing every bit of performance out of hardw
 #### 🌲 [hina (UringLog)](https://github.com/L3168152032-png/hina) 
 * **Focus**: Linux System Programming / High-Concurrency
 * **Tech**: C++17, **io_uring**, Double Buffering, Lock-free design.
-* **Highlight**: Achieved **1.3GB/s** throughput, outperforming `std::ofstream` by **52%** by eliminating synchronous syscalls.
+* **Highlight**: Achieved **1.3GB/s** throughput, outperforming by **52%** by eliminating synchronous syscalls.
 
 #### 🧠 [self-AI](https://github.com/L3168152032-png/self-AI)
 * **Focus**: AI Engineering / Model Optimization
