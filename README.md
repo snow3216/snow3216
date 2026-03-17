@@ -28,7 +28,7 @@ I'm a developer passionate about squeezing every bit of performance out of hardw
 ---
 
 ### 📫 Reach Me
-- **GitHub**: [L3168152032-png](https://github.com/L3168152032-png)
+- **GitHub**: [snow3216](https://github.com/snow3216)
 - **Email**: l3168152032@gmail.com
 
 ---
