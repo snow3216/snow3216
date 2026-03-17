@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucien (snow3216)
+# 👋 Hi, I'm Snow (snow3216)
 
 ### 🚀 Deep Dive into High-Performance Systems & AI Infrastructure
 
